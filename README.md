@@ -8,6 +8,8 @@ Professionally, I worked as a Junior Data Scientist, gaining hands-on experience
 
 I value clear communication, teamwork, and learning by building. I'm always interested in opportunities to work on challenging technical problems and collaborate with people who are passionate about creating useful technology.
 
+ℹ️ If you're looking for the machine learning model I present on my LinkedIn - it is still in the process of publishing. Eventually, it will be uploaded to GitHub as my public repository. If you want to have a look at it now, contact me on LinkedIn.
+
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/filip-szyszko-62b710280/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin_icon" height="40" width="40" /></a>
 
