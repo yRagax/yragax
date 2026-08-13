@@ -11,7 +11,7 @@ I value clear communication, teamwork, and learning by building. I'm always inte
 ℹ️ Bitcoin PatchTST prediction model is now public under this link: <a href="https://github.com/yRagax/patchtst-bitcoin" target="blank">patchtst-bitcoin</a>.
 
 <h3>Connect with me:</h3>
-<a href="https://github.com/yRagax/patchtst-bitcoin" target="blank">patchtst-bitcoin</a>
+<a href="https://www.linkedin.com/in/filip-szyszko-62b710280/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin_icon" height="40" width="40" /></a>
 
 <!--
 **yRagax/yragax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
